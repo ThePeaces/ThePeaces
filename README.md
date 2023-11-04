@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **The Peace Company**
 
-- 📝 I regularly write articles on [tegaraprilian.blogspot.com](tegaraprilian.blogspot.com)
-
 - 💬 Ask me about **Frontend Developer**
 
 - 📫 How to reach me **tegarmascart@gmail.com**
