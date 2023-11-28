@@ -13,10 +13,6 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.discordapp.com/attachments/1170405002448207913/1170624022141218846/DoS.gif?ex=65756714&is=6562f214&hm=19637a1f9dcc5d3781c642e2707196bd8220d2299eadfae839535f79b9f19bea&"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
