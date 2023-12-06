@@ -91,3 +91,10 @@
 </div>
 
 ###
+
+<p align="left">MyPortfolio</p>
+
+###
+<div align="left">
+  [Informasi lebih mengenai Markdown Discord](https://gist.github.com/matthewzring/9f7bbfd102003963f9be7dbcf7d40e51)
+</div>
