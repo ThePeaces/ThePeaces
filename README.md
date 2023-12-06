@@ -92,9 +92,9 @@
 
 ###
 
-<p align="left">MyPortfolio</p>
+<p align="left">𝙼𝚢 𝙻𝚒𝚗𝚔 𝙿𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘</p>
 
 ###
 <div align="left">
-  [Informasi lebih mengenai Markdown Discord](https://gist.github.com/matthewzring/9f7bbfd102003963f9be7dbcf7d40e51)
+  ➥ https://thepeaces.github.io/My-Portfolio
 </div>
