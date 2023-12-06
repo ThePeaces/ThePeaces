@@ -91,13 +91,3 @@
 </div>
 
 ###
-
-<p align="left">𝚈𝚘𝚞 𝚌𝚊𝚗 𝚜𝚎𝚎 𝚖𝚢 𝚙𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘 𝚒𝚗 𝚝𝚑𝚎 𝚕𝚒𝚗𝚔 𝚋𝚎𝚕𝚘𝚠</p>
-
-###
-
-<div align="left">
-  <a href="https://thepeaces.github.io/My-Portfolio/" target="_blank">
-    𝙼𝚢 𝙿𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘
-  </a>
-</div>
