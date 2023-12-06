@@ -98,6 +98,6 @@
 
 <div align="left">
   <a href="https://thepeaces.github.io/My-Portfolio/" target="_blank">
-    <img src="https://drive.google.com/file/d/1EbRIGlha1UM2iqiOTlIJg8ZxPwpxVd-j/view?usp=drive_link" height="30"  />
+    𝙼𝚢 𝙿𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘
   </a>
 </div>
